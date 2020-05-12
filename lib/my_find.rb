@@ -7,5 +7,5 @@ def my_find(collection)
     i +=
 
   end
-
+binding.pry
 end
