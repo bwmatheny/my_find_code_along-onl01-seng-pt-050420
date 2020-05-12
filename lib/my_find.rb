@@ -5,7 +5,8 @@ def my_find(collection)
   while i < collection.length
     yield(collection[i])
     i +=
-binding.pry
+
   end
 
 end
+binding.pry
